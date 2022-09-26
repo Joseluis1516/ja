@@ -1,0 +1,22 @@
+#t{
+    color: aqua;
+}
+#logo {
+    height: 50px;
+    width:50px;
+}
+#cabecera{
+    background-color: rgb(4, 5, 5);
+    margin-right: 50%;
+
+}
+#texto{
+    margin-left: 20px;
+    background-color: brown;
+}
+#titulo{
+font-size: 50%;
+}
+h1{
+color: brown;
+}
