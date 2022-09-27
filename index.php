@@ -20,14 +20,19 @@
 </div>
 <br><br>
 <div>
-    <img src="img/portada.png" alt="">
+    <img src="img/e.png" alt="">
 </div>
 <br><br>
 
 <div class="texto">
-    <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, reiciendis odio est incidunt <br>
-    quibusdam ullam sint aut nobis, culpa accusantium distinctio cum eum excepturi placeat natus <br>
-    sit. Pariatur, laudantium facilis?</p>
+    <p >Los diseñadores de interacción se centran en diseñar la experiencia de uso de un producto y cómo funciona. <br>
+        Se esfuerzan por comprender el flujo de los usuarios, es decir, la ruta que el usuario promedio toma para <br>
+        ealizar una tarea en una aplicación, un sitio web u otra plataforma.</p>
+        <p>Los diseñadores visuales se centran en cómo se ve un producto o una tecnología. <br>
+        A menudo, son responsables de diseñar logotipos, ilustraciones e íconos, así como de decidir el color, <br>
+     el tamaño y la ubicación de la fuente. Los diseñadores visuales se centran en el diseño de cada página <br>
+    o pantalla y hacen que todos los elementos del diseño encajen de forma visualmente atractiva. 
+</p>
 </div>
 </center>
 </body>
