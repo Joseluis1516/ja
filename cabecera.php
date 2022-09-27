@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
+    <title>cabecera</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg cabecera">
+<nav class="navbar navbar-expand-lg bg-primary">
 <img src="img/logo.png" alt="" class="logo" heigth="100px" width="100px" >
 
   <div class="container-fluid">
@@ -30,7 +31,6 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="tema1.php">Tema 1</a></li>
             <li><a class="dropdown-item" href="tema2.php">Tema 2</a></li>
-            <li><a class="dropdown-item" href="tema3.php">Tema 3</a></li>
           </ul>
         </li>
         <!-- <li class="nav-item">
