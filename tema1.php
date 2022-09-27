@@ -16,17 +16,33 @@
 <?php include("cabecera.php") ?>
 
 <center>
+<br><br>
 <div>
-    <h1>TEMA 1</h1>
+    <h2>Características de una buena experiencia del usuario</h2>
 </div>
+<br>
+<br>
 <div>
-<p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quidem. <br>
-    Veritatis animi itaque reiciendis magnam provident accusantium <br>
-    consequatur fugit ratione dolor tempore aspernatur, culpa debitis a numquam voluptatem dolorem? Officiis?
+    <img src="img/ux.png" alt="">
+</div>
+<br><br>
+<div>
+<p>Si un producto es fácil de usar, significa que el diseño, la estructura  <br>
+    y el propósito del producto son claros y que el producto es fácil de entender. <br>
+     A la hora de evaluar cuán fácil de usar es un producto, puedes hacerte preguntas como estas: <br> 
+     ¿Todas las partes del diseño son fáciles de encontrar? ¿Es fácil entender la funcionalidad del diseño? <br>
+      ¿Pueden los usuarios realizar tareas específicas dentro del diseño? Durante tu evaluación, 
+      estas preguntas pueden ayudarte a determinar si el diseño es fácil de usar. 
 </p>
-
-
+<p>
+<b>usable </b> <br>
+    Imagina que estás evaluando cuán fácil de usar es la aplicación de una aerolínea. <br>
+    Si el objetivo principal de esta aplicación es reservar un vuelo, el diseño debería proporcionar <br>
+     una forma clara y sencilla de realizar esa tarea. Por ejemplo, una sección en la que el usuario <br>
+      pueda introducir fácilmente los detalles del itinerario y del vuelo en la página principal sería <br>
+      un ejemplo de facilidad de uso.
+</p>
+<br><br><br>
     <button type="submit"><a href="index.php">Regresar</a></button>
 </div>
 </center>
